@@ -24,13 +24,13 @@ En el siguiente enlace puedes encontrar el curso en la plataforma de edu.codigoi
 
 1. Comprobar si hay algina distribucón -> `python --version`
 2. Instalar python ->`sudo apt-get install python3`
-3. Abrir una terminal donde se creo la carpeta con `nano hola.py`
-4. Escribir `print ("Hola python")` guardamos cambios
-5. Ejecutamos `sudo python3 hola.py` para ver el resultado.
+3. Abrir una terminal donde se creo la carpeta con ->`nano hola.py`
+4. Escribir  ->`print ("Hola python")` guardamos cambios
+5. Ejecutamos  ->`sudo python3 hola.py` para ver el resultado.
 
 ## Resultados
 
-A continuación puede verse una vista previa de los resultado de este flow.
+A continuación puede verse una vista previa de los resultado de este ejercicio.
 
 ![](https://github.com/Cecilia-X-M/Introduccion-python/blob/main/archivo%20nano%20.png)
 ![](https://github.com/Cecilia-X-M/Introduccion-python/blob/main/ejecutararchivo.png)
